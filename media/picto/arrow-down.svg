@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>arrow-down@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Résonne-HD-final" transform="translate(-710.000000, -814.000000)" fill="#FFFFFF">
+            <g id="content" transform="translate(-32.000000, 0.000000)">
+                <g id="top" transform="translate(32.000000, 0.000000)">
+                    <g id="scroll" transform="translate(687.000000, 779.000000)">
+                        <path d="M36.965,39.26625 C36.621,38.91125 36.051,38.91125 35.695,39.26625 C35.352,39.61025 35.352,40.18025 35.695,40.52425 L42.133,46.96125 L20.891,46.96125 C20.395,46.96125 20,47.35625 20,47.85225 C20,48.34425 20.395,48.75425 20.891,48.75425 L42.133,48.75425 L35.695,55.17625 C35.352,55.53225 35.352,56.10625 35.695,56.44625 C36.051,56.80125 36.621,56.80125 36.965,56.44625 L44.926,48.48525 C45.281,48.14125 45.281,47.57125 44.926,47.23125 L36.965,39.26625 Z" id="arrow-down" transform="translate(32.596125, 47.856250) rotate(90.000000) translate(-32.596125, -47.856250) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

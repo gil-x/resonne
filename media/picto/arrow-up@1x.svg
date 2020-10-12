@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>arrow-up@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Résonne-HD-final-scroll" transform="translate(-1356.000000, -937.000000)" fill="#181E25">
+            <path d="M1369.965,941.26625 C1369.621,940.91125 1369.051,940.91125 1368.695,941.26625 C1368.352,941.61025 1368.352,942.18025 1368.695,942.52425 L1375.133,948.96125 L1353.891,948.96125 C1353.395,948.96125 1353,949.35625 1353,949.85225 C1353,950.34425 1353.395,950.75425 1353.891,950.75425 L1375.133,950.75425 L1368.695,957.17625 C1368.352,957.53225 1368.352,958.10625 1368.695,958.44625 C1369.051,958.80125 1369.621,958.80125 1369.965,958.44625 L1377.926,950.48525 C1378.281,950.14125 1378.281,949.57125 1377.926,949.23125 L1369.965,941.26625 Z" id="arrow-up" transform="translate(1365.596125, 949.856250) scale(1, -1) rotate(90.000000) translate(-1365.596125, -949.856250) "></path>
+        </g>
+    </g>
+</svg>
